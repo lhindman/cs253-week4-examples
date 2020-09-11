@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "ExploringStrcpy"
+		},
+		{
+			"path": "Exploring Strcmp"
 		}
 	],
 	"settings": {
