@@ -12,7 +12,7 @@ int main(void) {
 
    /* 
     * strcpy() API documentation
-    * https://www.man7org/linux/man-pages/man3/strcpy.3.html
+    * https://www.man7.org/linux/man-pages/man3/strcpy.3.html
     */
 
    size_t MAX_MSG_LENGTH = 20;
