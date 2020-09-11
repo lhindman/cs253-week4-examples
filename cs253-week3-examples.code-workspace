@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "ExploringPrintf"
+		},
+		{
+			"path": "ExploringScanf"
+		},
+		{
+			"path": "ExploringStrcpy"
 		}
 	],
 	"settings": {
