@@ -16,6 +16,7 @@ int main(void) {
       printf("You entered: %d\n", value);
    } else {
       printf("Please enter only integer values!\n");
+      return 1;
    }
    
    /* Extended example */
@@ -28,6 +29,7 @@ int main(void) {
       printf("You entered %d minutes and %d seconds\n", min, sec);
    } else {
       printf("Please enter time formatted in mm:ss only\n");
+      return 1;
    }
 
    /* An exit code of zero indicates that the program ran successfully */
