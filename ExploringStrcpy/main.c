@@ -73,7 +73,7 @@ int main(void) {
    
    // strncpy(dest,msg,MAX_MSG_LENGTH);
 
-   // if (strlen(msg)>=MAX_MSG_LENGTH) {
+   // if (strlen(msg)>MAX_MSG_LENGTH) {
    //    dest[MAX_MSG_LENGTH] = '\0';
    // }
 
